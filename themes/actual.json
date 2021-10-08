@@ -1,0 +1,115 @@
+{
+	"name": "NameUser",
+	"type": "dark",
+	"colors": {
+		"editor.background": "#1c2500",
+		"editor.foreground": "#ffff00",
+		"activityBarBadge.background": "#c15f6f",
+		"sideBarTitle.foreground": "#719bad"
+	},
+	"tokenColors": [
+		{
+			"name": "c1",
+			"scope": [
+				"editor.background"
+			],
+			"settings": {
+				"foreground": "#1c252e"
+			}
+		},
+        {
+			"name": "c2",
+			"scope": [
+			],
+			"settings": {
+				"foreground": "#1c252e"
+			}
+		},
+        {
+			"name": "c3",
+			"scope": [
+			],
+			"settings": {
+				"foreground": "#1c252e"
+			}
+		},
+        {
+			"name": "c4",
+			"scope": [
+			],
+			"settings": {
+				"foreground": "#1c252e"
+			}
+		},
+        {
+			"name": "c5",
+			"scope": [
+			],
+			"settings": {
+				"foreground": "#1c252e"
+			}
+		},
+        {
+			"name": "c6",
+			"scope": [
+			],
+			"settings": {
+				"foreground": "#1c252e"
+			}
+		},
+        {
+			"name": "c7",
+			"scope": [
+			],
+			"settings": {
+				"foreground": "#1c252e"
+			}
+		},
+        {
+			"name": "c8",
+			"scope": [
+			],
+			"settings": {
+				"foreground": "#1c252e"
+			}
+		},
+        {
+			"name": "c9",
+			"scope": [
+			],
+			"settings": {
+				"foreground": "#1c252e"
+			}
+		},
+        {
+			"name": "c10",
+			"scope": [
+			],
+			"settings": {
+				"foreground": "#1c252e"
+			}
+		},
+        {
+			"name": "c11",
+			"scope": [
+			],
+			"settings": {
+				"foreground": "#1c252e"
+			}
+		},
+        {
+			"name": "c12",
+			"scope": [
+			],
+			"settings": {
+				"foreground": "#1c252e"
+			}
+		},
+        {
+			"name": "c13",
+			"scope": [
+			],
+			"settings": {
+				"foreground": "#1c252e"
+			}
+		},
