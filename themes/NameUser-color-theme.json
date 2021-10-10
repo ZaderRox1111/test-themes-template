@@ -217,7 +217,13 @@
 				"storage.type.js",
 				"source.json meta.structure.dictionary.json support.type.property-name.json",
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json",
-				"markup.changed"
+				"markup.changed",
+				"source.css support.type.property-name",
+				"source.sass support.type.property-name",
+				"source.scss support.type.property-name",
+				"source.less support.type.property-name",
+				"source.stylus support.type.property-name",
+				"source.postcss support.type.property-name"
 			],
 			"settings": {
 				"foreground": "#44929e"
@@ -312,12 +318,6 @@
 				"meta.class-method.js entity.name.function.js",
 				"variable.function.constructor",
 				"constant.other.color",
-				"source.css support.type.property-name",
-				"source.sass support.type.property-name",
-				"source.scss support.type.property-name",
-				"source.less support.type.property-name",
-				"source.stylus support.type.property-name",
-				"source.postcss support.type.property-name",
 				"entity.name.module.js",
 				"variable.import.parameter.js",
 				"variable.other.class.js",
